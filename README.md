@@ -1,3 +1,4 @@
 # ML-Demo
-ML-Demo for hw ml //
-streamlit run app.py
+### ML-Demo for hw ml
+
+to run application type: streamlit run app.py
