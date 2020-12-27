@@ -1,0 +1,6 @@
+lightgbm==3.1.1
+numpy==1.19.4
+pandas==0.22.0
+plotly==4.14.1
+shap==0.37.0
+streamlit==0.73.1
