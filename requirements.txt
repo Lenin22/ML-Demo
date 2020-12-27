@@ -1,8 +1,8 @@
-plotly==3.6.0
-lightgbm==3.1.0
+plotly==14.4.1
+lightgbm==3.1.1
 numpy==1.19.4
-pandas==1.1.0
-matplotlib==3.0.2
+pandas==1.2.0
+matplotlib==3.3.3
 scikit_learn==0.24.0
 shap==0.37.0
 streamlit==0.73.1
